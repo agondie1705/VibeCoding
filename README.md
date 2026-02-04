@@ -36,3 +36,9 @@ Quiero añadir un gráfico interactivo que muestre cuántos videojuegos se lanza
 El gráfico debe hacerse en JavaScript sin librerías externas.
 
 Debe ser responsive y mantener el diseño actual.
+
+## Publicación
+
+URL de la landing:
+
+https://agondie1705.github.io/VibeCoding/
