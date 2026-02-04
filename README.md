@@ -28,3 +28,11 @@ Entrégame el contenido completo de cada archivo.
 ## Prompt 2
 
 Añade un botón para ordenar los videojuegos por fecha y mejora la animación de las tarjetas.
+
+## Prompt 3
+
+Quiero añadir un gráfico interactivo que muestre cuántos videojuegos se lanzan por mes.
+
+El gráfico debe hacerse en JavaScript sin librerías externas.
+
+Debe ser responsive y mantener el diseño actual.
