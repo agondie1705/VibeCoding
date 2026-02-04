@@ -24,3 +24,7 @@ Requisitos:
   script.js
 
 Entrégame el contenido completo de cada archivo.
+
+## Prompt 2
+
+Añade un botón para ordenar los videojuegos por fecha y mejora la animación de las tarjetas.
